@@ -1,0 +1,24 @@
+{
+  "name": "publish",
+  "version": "1.0.0",
+  "description": "A comandline tool to aid in the creation of handcrafted ebooks",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahellis4242/Publish.git"
+  },
+  "keywords": [
+    "ebook",
+    "handcrafted",
+    "comandline"
+  ],
+  "author": "Hannah Ellis",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hannahellis4242/Publish/issues"
+  },
+  "homepage": "https://github.com/hannahellis4242/Publish#readme"
+}
